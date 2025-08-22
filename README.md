@@ -1,3 +1,3 @@
-#deno
+# Demo
 
 Some description.
